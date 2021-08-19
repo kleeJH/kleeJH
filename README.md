@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @kleeJH
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+- I do have a Personal repository with all my school code in, but did not unprivate it because there might be sensitive information such as my school ID.
+- For anyone that is looking (especially those that seen my resume), please contact me via email or phone and I'll share the access to it.
+
+<!---
+kleeJH/kleeJH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

@@ -23,11 +23,14 @@
 
 <br/>
 
-<h2>🧍🏻 More About Me</h2>
+<details open> 
+ <summary><h2>🧍🏻 More About Me</h2></summary>
 
 - 👨‍💻 Here is my [Portfolio](https://junhong-portfolio.netlify.app/)
 
 - 📫 You can reach me via gmail at **klee.junhong@gmail.com**
+
+</details>
 
 <br/>
 
@@ -57,7 +60,7 @@
   </p>
 
   <h4>🧰 Frameworks and Libraries</h4>
-#F7931E
+
   <p>
       <a href="https://openai.com/"><img alt="OpenAI" src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
       <a href="https://opencv.org/"><img alt="OpenCV" src="https://custom-icon-badges.demolab.com/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
@@ -112,6 +115,7 @@
       <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio 20XX" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
       <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+</details>
 
 <br/>
 

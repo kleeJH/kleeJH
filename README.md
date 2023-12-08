@@ -40,6 +40,7 @@
   <h4>👨‍💻 Programming and Markup Languages</h4>
 
   <p>
+      <a href="#"><img alt=".NET" src="https://custom-icon-badges.demolab.com/badge/.NET-#512BD4.svg?logo=.net&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -56,7 +57,7 @@
   <h4>🧰 Frameworks and Libraries</h4>
 
   <p>
-      <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
+      <a href="#"><img alt="Discord.js" src="https://custom-icon-badges.demolab.com/badge/Discord.js-0d1620.svg?logo=dpy"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>

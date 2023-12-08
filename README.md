@@ -35,8 +35,7 @@
 <br/>
 
 <details> 
-  <summary><h2>🧰 Languages and Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <h2>🧰 Languages and Tools</h2>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 

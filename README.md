@@ -34,9 +34,10 @@
 
 <br/>
 
-  <h2>🧰 Languages and Tools</h2>
+<details open> 
+  <summary><h2>🧰 Languages and Tools</h2></summary>
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h4>👨‍💻 Programming and Markup Languages</h4>
 
   <p>
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -52,7 +53,7 @@
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h4>🧰 Frameworks and Libraries</h4>
 
   <p>
       <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
@@ -64,7 +65,7 @@
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h4>🗄️ Databases and Cloud Hosting</h4>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -76,7 +77,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h4>💻 Software and Tools</h4>
 
   <p>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>

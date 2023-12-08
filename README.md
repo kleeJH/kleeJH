@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin.</h1>
-<h3 align="center">A fresh-out-the-school computer science graduate from Malaysia!</h3>
+<h4 align="center">A fresh-out-the-school computer science graduate from Malaysia!</h4>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7F1&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Data+Science+Enthusiast;ML+%26+DL+Admirer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2CF7F1&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Data+Science+Enthusiast;ML+%26+DL+Admirer" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleejh&label=Profile%20views&color=0e75b6&style=flat" alt="kleejh" /> </p>

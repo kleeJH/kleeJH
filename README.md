@@ -23,10 +23,11 @@
 
 <br/>
 
+<h2>🧍🏻 More About Me</h2>
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://junhong-portfolio.netlify.app/)
+- 👨‍💻 Here is my [Portfolio](https://junhong-portfolio.netlify.app/)
 
-- 📫 How to reach me **klee.junhong@gmail.com**
+- 📫 You can reach me via gmail at **klee.junhong@gmail.com**
 
 <br/>
 
@@ -103,6 +104,7 @@
       <a href="https://bard.google.com/"><img alt="Google Bard" src="https://img.shields.io/badge/Google%20Bard-34A853.svg?logo=google%20bard&logoColor=white"></a>
       <a href="https://cloud.google.com/"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?logo=googlecloud&logoColor=white"></a>
       <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="https://www.atlassian.com/software/jira"><img alt="Jira Software" src="https://img.shields.io/badge/Jira20Software-0052CC.svg?logo=jira%20software&logoColor=white"></a>  
       <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>

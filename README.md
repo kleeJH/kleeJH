@@ -9,9 +9,9 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://github.com/kleeJH1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/kleeJH?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kleeJH?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/kleeJH1?tab=followers">
+  <a href="https://github.com/kleeJH?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kleeJH?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
@@ -26,7 +26,7 @@
 <details open> 
  <summary><h2>🧍🏻 More About Me</h2></summary>
 
-- 👨‍💻 Here is my [Portfolio](https://junhong-portfolio.netlify.app/)
+- 👨‍💻 Here is my [portfolio](https://junhong-portfolio.netlify.app/)
 
 - 📫 You can reach me via gmail at **klee.junhong@gmail.com**
 

@@ -26,7 +26,7 @@
 <details open> 
  <summary><h2>🧍🏻 More About Me</h2></summary>
 
-- 👨‍💻 Here is my [portfolio](https://junhong-portfolio.netlify.app/)
+- 👨‍💻 My [portfolio](https://kleejh.vercel.app/)
 
 - 📫 You can reach me via gmail at **klee.junhong@gmail.com**
 
